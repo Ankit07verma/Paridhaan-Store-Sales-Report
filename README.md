@@ -4,10 +4,15 @@ This Excel-based dashboard provides a comprehensive analysis of sales data for P
 
 ### Features
 **Sales by Month:** Filter and analyze sales data month by month to identify seasonal trends and sales spikes.
+
 **Sales by Channel:** Explore sales across different sales channels such as online, retail outlets, or third-party platforms.
+
 **Sales by Product Type:** Compare the performance of different product categories like men's wear, women's wear, accessories, and more.
+
 **Sales by Gender:** Analyze the gender-based distribution of sales to understand consumer behavior across different segments.
+
 **Sales by Genre:** Dive deeper into specific genres or product types (e.g., casual, formal, ethnic) to identify preferences and trends.
+
 ### Data Sources
 The dashboard utilizes sales data gathered from various sales channels and customer touchpoints. The data includes:
 
@@ -21,7 +26,8 @@ This dashboard is perfect for:
 Retail sales managers looking for quick insights on performance
 Data analysts working on understanding trends in consumer behavior
 Marketing teams aiming to tailor campaigns based on gender or product preferences
-###Tools Used
+
+### Tools Used
 **Excel:** The core tool for creating this dashboard, including features like Power Query Editor for data extraction and cleaning, Pivot Tables for aggregating data, and interactive filters for dynamic insights.
 **Power Query Editor:** Used for data extraction, transformation, and cleaning to ensure clean and accurate data for analysis.
 **Pivot Tables & Charts:** Employed to summarize the data and create visually appealing and insightful dashboards.
