@@ -29,7 +29,9 @@ Marketing teams aiming to tailor campaigns based on gender or product preference
 
 ### Tools Used
 **Excel:** The core tool for creating this dashboard, including features like Power Query Editor for data extraction and cleaning, Pivot Tables for aggregating data, and interactive filters for dynamic insights.
+
 **Power Query Editor:** Used for data extraction, transformation, and cleaning to ensure clean and accurate data for analysis.
+
 **Pivot Tables & Charts:** Employed to summarize the data and create visually appealing and insightful dashboards.
 ### How to Use
 Open the Excel file.
