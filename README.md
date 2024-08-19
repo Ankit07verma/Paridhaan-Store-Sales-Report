@@ -1,4 +1,4 @@
-**# Paridhaan Store Sales Report Dashboard - Excel**
+** # Paridhaan Store Sales Report Dashboard - Excel**
 ### Overview
 This Excel-based dashboard provides a comprehensive analysis of sales data for Paridhaan, a retail store specializing in clothing. The dashboard is designed for data analytics purposes and offers detailed insights into the store's sales performance. With various filters and dynamic visuals, users can explore sales trends across different dimensions such as time, sales channels, product categories, and customer demographics.
 
